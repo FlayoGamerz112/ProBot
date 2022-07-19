@@ -25,4 +25,4 @@ async def report_user(bot, message):
             except:
                 pass
         if success:
-            await message.reply_text("𝖱𝖾𝗉𝗈𝗋𝗍𝖾𝖽 𝗍𝗈 𝖠𝖽𝗆𝗂𝗇𝗌!\nEven THough Let Me tag someone who is more than admin @TechnoMindzYt")
+            await message.reply_text("𝖱𝖾𝗉𝗈𝗋𝗍𝖾𝖽 𝗍𝗈 𝖠𝖽𝗆𝗂𝗇𝗌!\nEven THough Let Me tag someone who is more than admin @Flayo112")
