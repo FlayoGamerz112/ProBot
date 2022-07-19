@@ -60,7 +60,7 @@ async def showid(client, message):
 @Client.on_message(filters.command("about"))
 async def aboutme(client, message):
         buttons= [[
-            InlineKeyboardButton('♥️ SUBSCRIBE ♥️', url='https://www.youtube.com/c/TechnoMindz')
+            InlineKeyboardButton('♥️ SUBSCRIBE ♥️', url='https://www.youtube.com/channel/UCJlDpNYp5O6gSTHxG7XcQ-g')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 ', callback_data='start'),
             InlineKeyboardButton('❌ 𝙲𝙻𝙾𝚂𝙴 ❌', callback_data='close_data')
