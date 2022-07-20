@@ -48,7 +48,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('♥ﮩ٨ـﮩ му♡gяσυρ ﮩـ٨ﮩ♥', url='https://t.me/allnewmovies111223')
             ],[
-            InlineKeyboardButton('🆘 𝐒𝐔𝐔𝐏𝐎𝐑𝐓', url='https://t.me/allnewmoviessupport'),
+            InlineKeyboardButton('🆘 𝐒𝐔P𝐏𝐎𝐑𝐓', url='https://t.me/allnewmoviessupport'),
             InlineKeyboardButton('sᴇᴀʀᴄʜ🔎', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('༺ 𝓓𝓔𝓥𝓔𝓛𝓞𝓟𝓔𝓡 ༻', url='https://t.me/TechnomindzYt'),
