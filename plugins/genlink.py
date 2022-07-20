@@ -24,7 +24,7 @@ async def allowed(_, __, message):
 async def gen_link_s(bot, message):
     replied = message.reply_to_message
     if not replied:
-        return await message.reply('𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝚁 𝙰 𝙵𝙸𝙻𝙴. 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝚂𝙷𝙰𝚁𝙰𝙱𝙻𝙴 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺\n\nMade By @TechnoKillerBot')
+        return await message.reply('𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝚁 𝙰 𝙵𝙸𝙻𝙴. 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝚂𝙷𝙰𝚁𝙰𝙱𝙻𝙴 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺\n\nMade By @allnewmovies112')
     file_type = replied.media
     if file_type not in ["video", 'audio', 'document']:
         return await message.reply("𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙴𝙳 𝙼𝙴𝙳𝙸𝙰")
